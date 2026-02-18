@@ -12,8 +12,10 @@ ButtonKit provides modern Flutter buttons with:
       - Long text handling with ellipsis
       - Custom colors, gradients, radius & sizes
 
-![buttonKitMobile.jpeg](assets/buttonKitMobile.jpeg)
-
+[//]: # (![buttonKitMobile.jpeg]&#40;assets/buttonKitMobile.jpeg&#41;)
+<p align="center">
+  <img src="assets/buttonKitMobile.jpeg" width="200">
+</p>
 ## ✨ Features
 
 🟦 4 Ready-made buttons
