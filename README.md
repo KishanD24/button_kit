@@ -1,7 +1,5 @@
 # ButtonKit
-<p align="center">
-  <img src="assets/buttonKitWeb.jpeg">
-</p>
+![Button Kit Web](assets/buttonKitWeb.jpeg)
 A simple, beautiful, customizable button library for Flutter.
 ButtonKit provides modern Flutter buttons with:
 
@@ -16,9 +14,7 @@ ButtonKit provides modern Flutter buttons with:
       - Custom colors, gradients, radius & sizes
 
 [//]: # (![buttonKitMobile.jpeg]&#40;assets/buttonKitMobile.jpeg&#41;)
-<p align="center">
-  <img src="assets/buttonKitMobile.jpeg" width="200">
-</p>
+![Button Kit Mobile View](assets/buttonKitMobile.jpeg)
 
 ## ✨ Features
 
@@ -179,10 +175,6 @@ Feel free to use in personal and commercial projects.
       
 If this package has helped you or saved you development time, please consider supporting my open-source work.  
 Your support motivates me to continue improving this package and building more useful Flutter tools.
-      
-<p align="center">
-  <a href="https://buymeacoffee.com/kishand24">
-    <img src="assets/download.png" >
-  </a>
-</p>
+
+![Buy Me a Coffee](assets/download.png)
 
