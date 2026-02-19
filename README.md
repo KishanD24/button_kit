@@ -177,9 +177,12 @@ Feel free to use in personal and commercial projects.
 
 # ☕ Buy Me a Coffee
       
-      If this package has helped you or saved you development time, please consider supporting my open-source work.  
-      Your support motivates me to continue improving this package and building more useful Flutter tools.
+If this package has helped you or saved you development time, please consider supporting my open-source work.  
+Your support motivates me to continue improving this package and building more useful Flutter tools.
       
-      [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kishand24&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/kishand24)
-
+<p align="center">
+  <a href="https://buymeacoffee.com/kishand24">
+    <img src="assets/download.png" >
+  </a>
+</p>
 
