@@ -2,8 +2,8 @@ name: button_kit
 description: A simple, beautiful, and customizable button library for Flutter.
 version: 1.0.0
 
-homepage: https://github.com/ept-developer/button_kit
-repository: https://github.com/ept-developer/button_kit
+homepage: https://github.com/KishanD24/button_kit.git
+repository: https://github.com/KishanD24/button_kit.git
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

@@ -1,4 +1,7 @@
 # ButtonKit
+<p align="center">
+  <img src="assets/buttonKitWeb.jpeg">
+</p>
 A simple, beautiful, customizable button library for Flutter.
 ButtonKit provides modern Flutter buttons with:
 
@@ -16,6 +19,7 @@ ButtonKit provides modern Flutter buttons with:
 <p align="center">
   <img src="assets/buttonKitMobile.jpeg" width="200">
 </p>
+
 ## ✨ Features
 
 🟦 4 Ready-made buttons
